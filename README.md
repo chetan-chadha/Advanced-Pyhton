@@ -28,6 +28,7 @@
         3. [\__iter__]()
         4. [\__str__]()
         5. [\__repr__]()
+		6. [Property]()
 8. [Miscellaneous Features]()
     1. [with as](./With_As.md)
     2. [yield](./Yield.md)
